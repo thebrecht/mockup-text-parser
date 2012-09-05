@@ -1,0 +1,9 @@
+{
+  "name": "mockup-text-parser"
+  , "version": "0.0.1"
+  , "author": "Brecht Huang <mr.brecht@gmail.com>"
+  , "description": "Parsing text from BMML(The file format of Balsamiq Mockups)"
+  , "dependencies": {
+      "elementtree": "latest"
+   }
+}
